@@ -1,5 +1,9 @@
 # Crie sua Operação Unitária utilizando Python no DWSIM
 
+## Termo de Participação e Concordância
+
+Para participar, é necessário preencher o [Formulário de Participação](https://docs.google.com/forms/d/e/1FAIpQLSfSotZw-ltlxjXn6w4JFPsdzoT8WQO8b7RnEhqTCF8QnGPuXQ/viewform).
+
 ## Objetivo do Desafio
 
 Desenvolver uma Operação Unitária personalizada no DWSIM (versão 8.8.1 ou superior) utilizando Python, promovendo a inovação e o compartilhamento de conhecimento com a comunidade global de usuários.
@@ -51,8 +55,4 @@ Desenvolver uma Operação Unitária personalizada no DWSIM (versão 8.8.1 ou su
 
 - **Divulgação do Vencedor:** O vencedor será anunciado até 20/12/2024 por meio das redes sociais e canais de comunicação dos organizadores.
 - **Contato:** Para dúvidas ou informações adicionais, entre em contato pelo e-mail [nicolas.spogis@gmail.com](mailto:nicolas.spogis@gmail.com).
-
-## Termo de Participação e Concordância
-
-Para participar, é necessário preencher o [Formulário de Participação](https://docs.google.com/forms/d/e/1FAIpQLSfSotZw-ltlxjXn6w4JFPsdzoT8WQO8b7RnEhqTCF8QnGPuXQ/viewform).
 
