@@ -32,7 +32,7 @@ Desenvolver uma Operação Unitária personalizada no DWSIM (versão 8.8.1 ou su
 ## Premiações
 
 - **Distribuição no DWSIM:** As melhores Operações Unitárias serão incluídas na plataforma DWSIM com o manual fornecido pelo participante, e todos os créditos de desenvolvimento serão atribuídos ao criador.
-- **Prêmio Principal:** A melhor Operação Unitária receberá um prêmio em dinheiro (PIX), no valor de R$1.000,00 (mil Reais),  equivalente a mais de 24 meses de assinatura do canal Casca Grossa Suprema do YouTube (https://www.youtube.com/@CascaGrossaSuprema). 
+- **Prêmio Principal:** A melhor Operação Unitária receberá um prêmio em dinheiro (PIX), no valor de **R$1.000,00 (mil Reais)**,  equivalente a mais de 24 meses de assinatura do canal Casca Grossa Suprema do YouTube (https://www.youtube.com/@CascaGrossaSuprema). 
 - **Pagamento da Premiação:** O prêmio em dinheiro será pago exclusivamente em nome do vencedor, em conta bancária de sua titularidade vinculada ao seu CPF. Não serão aceitas contas de terceiros ou de pessoas jurídicas para o recebimento da premiação. O ganhador deverá fornecer seus dados bancários corretamente no ato da solicitação do prêmio, sob pena de desclassificação caso não o faça no prazo estabelecido.
 
 ## Condições de Participação e Termos Legais
